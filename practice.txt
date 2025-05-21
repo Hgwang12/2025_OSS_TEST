@@ -1,0 +1,8 @@
+This is a line to copy.
+im is a powerful text editor.
+This is a line to delete.
+It has different modes for editing and navigating.
+Practice makes perfect.
+This is a line to delete.
+This is a line to copy.
+You can copy, delete, and move lines easily.
